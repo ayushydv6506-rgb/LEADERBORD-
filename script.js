@@ -1,34 +1,14 @@
 let oldRanks = JSON.parse(localStorage.getItem("ranks")) || {};
 
 let players = [
-  { name: "Team A", uid: "123456", match: 3, kill: 21 },
-  { name: "Team B", uid: "654321", match: 3, kill: 8 },
-  { name: "Team C", uid: "999999", match: 2, kill: 15 },
-  { name: "Team D", uid: "111111", match: 4, kill: 30 },
-  { name: "Team E", uid: "222222", match: 2, kill: 20 },
-  { name: "Team E", uid: "222222", match: 2, kill: 50 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 23 },
-{ name: "Team E", uid: "222222", match: 2, kill: 14 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-{ name: "Team E", uid: "222222", match: 2, kill: 46 },
-
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
 
 ];
 
