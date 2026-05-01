@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Leaderboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<h1>🔥 TOURNAMENT LEADERBOARD 💀</h1>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search Player..." onkeyup="searchPlayer()">
+</div>
+
+<p id="count"></p>
+
+<!-- 🏆 TOP 3 MVP -->
+<div class="top3" id="top3"></div>
+
+<!-- 🔥 TABLE -->
+<div class="leaderboard">
+  <table id="table">
+    <tr>
+      <th>S.No</th>
+      <th>Name</th>
+      <th>UID</th>
+      <th>Match</th>
+      <th>Total Kill</th>
+    </tr>
+  </table>
+</div>
+
+
+<p class="update">Updated Daily</p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
