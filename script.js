@@ -1,12 +1,16 @@
 let oldRanks = JSON.parse(localStorage.getItem("ranks")) || {};
 
 let players = [
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
+  { name: "ayushi ", uid: "2590394042", match: 00, kill: 00 },
+  { name: "amaira ", uid: "124534478", match: 00, kill: 00 },
+  { name: "ATG GAMING? ", uid: "3728664580", match: 00, kill: 00 },
+  { name: "Draco ", uid: "1923775742", match: 00, kill: 00 },
+  { name: "Spy cosmic ", uid: "1413442309", match: 00, kill: 00 },
+  { name: "Mr ADI ff ", uid: "2910579969", match: 00, kill: 00 },
+  { name: "DSG YT ", uid: "2033761543", match: 00, kill: 00 },
+  { name: "appu,firepla ", uid: "5682810292", match: 00, kill: 00 },
+  { name: "RED X ", uid: "774849973", match: 00, kill: 00 },
+  { name: "XXXXX ", uid: "0000000", match: 00, kill: 00 },
   { name: "Team ", uid: "0000000", match: 00, kill: 00 },
   { name: "Team ", uid: "0000000", match: 00, kill: 00 },
 
