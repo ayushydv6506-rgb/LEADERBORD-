@@ -10,10 +10,27 @@ let players = [
   { name: "DSG YT ", uid: "2033761543", match: 00, kill: 00 },
   { name: "appu,firepla ", uid: "5682810292", match: 00, kill: 00 },
   { name: "RED X ", uid: "774849973", match: 00, kill: 00 },
-  { name: "XXXXX ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-  { name: "Team ", uid: "0000000", match: 00, kill: 00 },
-
+  { name: "xt BRUZZ ", uid: "2080156930", match: 00, kill: 00 },
+  { name: "ZytraX ", uid: "9793966590", match: 00, kill: 00 },
+ { name: "AFM.GOKU ", uid: "1853617010", match: 00, kill: 00 },
+   { name: "ALIS_PATEL ", uid: "682784631", match: 00, kill: 00 },
+   { name: "JETHALAL ", uid: "1585376913", match: 00, kill: 00 },
+   { name: "BABURAW ", uid: "1994185859", match: 00, kill: 00 },
+   { name: "ARYAN ", uid: "2047025180", match: 00, kill: 00 },
+   { name: "KRISH ", uid: "2577483873", match: 00, kill: 00 },
+   { name: "X-MN-GOKU ", uid: "3519349307", match: 00, kill: 00 },
+    { name: "X-MN-KRISHANA ", uid: "6300153695", match: 00, kill: 00 },
+    { name: "VIP SOYEB ", uid: "1309573077", match: 00, kill: 00 },
+    { name: "PRIMEZIX ", uid: "2344280550", match: 00, kill: 00 },
+    { name: "BOOS ACE ", uid: "2427525293", match: 00, kill: 00 },
+    { name: "ZG ABA ", uid: "2724611100", match: 00, kill: 00 },
+    { name: " ", uid: "", match: 00, kill: 00 },
+    { name: " ", uid: "", match: 00, kill: 00 },
+    { name: " ", uid: "", match: 00, kill: 00 },
+    { name: " ", uid: "", match: 00, kill: 00 },
+    { name: " ", uid: "", match: 00, kill: 00 },
+      
+  
 ];
 
 document.getElementById("count").innerText =
