@@ -36,7 +36,7 @@ let players = [
     { name: "inosuken ", uid: "3815244155", match: 1, kill: 00 },
     { name: "GAMERFURQUAN ", uid: "8507554961", match: 1, kill: 00 },
     { name: "LEVI ", uid: "12972466773", match: 1, kill: 2 },
-    { name: "4BXFLUXO ", uid: "", match: 1, kill: 00 },
+    { name: "4BXFLUXO ", uid: "", match: 1, kill: 6 },
     { name: " ", uid: "", match: 00, kill: 00 },
     { name: " ", uid: "", match: 00, kill: 00 },
       
