@@ -4,7 +4,7 @@ let players = [
   { name: "ayushi ", uid: "2590394042", match: 00, kill: 00 },
   { name: "amaira ", uid: "124534478", match: 00, kill: 00 },
   { name: "ATG GAMING? ", uid: "3728664580", match: 1, kill: 00 },
-  { name: "Draco ", uid: "1923775742", match: 1, kill: 00 },
+  { name: "Draco ", uid: "1923775742", match: 1, kill: 4 },
   { name: "Spy cosmic ", uid: "1413442309", match: 1, kill: 1 },
   { name: "Mr ADI ff ", uid: "2910579969", match: 1, kill: 4 },
   { name: "DSG YT ", uid: "2033761543", match: 1, kill: 5 },
